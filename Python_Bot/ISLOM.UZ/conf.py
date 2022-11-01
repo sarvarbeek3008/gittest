@@ -1,0 +1,2 @@
+TOKEN = '5209255063:AAG3bvdJUveHmSBj_OAuJgTD9qVB7vfhNQQ'
+DB_NAME='ramadan.sqlite'
